@@ -1,0 +1,16 @@
+{
+  "name": "tushop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jobscheduling": "node jobscheduling.js",
+    "distributeGoodies": "node distributeGoodies.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
